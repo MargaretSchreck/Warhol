@@ -1,0 +1,2 @@
+dec makeWpic():
+  pass
